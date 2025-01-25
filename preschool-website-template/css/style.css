@@ -1,8 +1,4 @@
 /********** Template CSS **********/
-body {
-    direction: rtl;
-
-}
 :root {
     --primary: #FE5D37;
     --light: #FFF5F3;
